@@ -76,7 +76,7 @@ const ContactSection = () => {
       label: "EMAIL",
       value: "ola@mariarey.pt",
       icon: Mail,
-      href: "mailto:ola@mariarey.pt",
+      href: "mailto:mariareydev@gmail.com",
     },
     {
       label: "GITHUB",
