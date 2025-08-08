@@ -74,7 +74,7 @@ const ContactSection = () => {
   const contactLinks = [
     {
       label: "EMAIL",
-      value: "ola@mariarey.pt",
+      value: "mariareydev@gmail.com",
       icon: Mail,
       href: "mailto:mariareydev@gmail.com",
     },
