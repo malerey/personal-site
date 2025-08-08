@@ -103,7 +103,7 @@ const AboutSection = () => {
             </p>
 
             <p className="text-xl font-light leading-relaxed text-muted-foreground mb-8 relative">
-              Move fast and break things? Not my style.
+              I move fast, but I don't break things. 
               <div
                 className="absolute -left-4 top-0 w-1 h-full bg-accent transform scale-y-0 origin-top transition-transform duration-800 delay-300"
                 style={{
